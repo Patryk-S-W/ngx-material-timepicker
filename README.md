@@ -1,7 +1,7 @@
 # Angular Material Timepicker
 
 [![Build Status](https://travis-ci.org/Agranom/ngx-material-timepicker.svg?branch=master)](https://travis-ci.org/Agranom/ngx-material-timepicker)
-[![codecov](https://codecov.io/gh/Agranom/ngx-material-timepicker/branch/master/graph/badge.svg?token=4gxj8PFT05)](https://codecov.io/gh/Agranom/ngx-material-timepicker)
+[![codecov](https://codecov.io/gh/Agranom/ngx-material-timepicker/branch/master/graph/badge.svg)](https://codecov.io/gh/Agranom/ngx-material-timepicker)
 [![npm version](https://badge.fury.io/js/ngx-material-timepicker.svg)](https://badge.fury.io/js/ngx-material-timepicker)
 
 Handy multifunctional [material design](https://material.io/guidelines/components/pickers.html#pickers-time-pickers) timepicker for Angular 6.0+
@@ -171,8 +171,6 @@ Selector: `ngx-timepicker-field`
   min: string or DateTime | Set min time for timepicker (`11:15 pm` ) |
 | @Input()
   max: string or DateTime | Set max time for timepicker (`11:15 pm` ) |
-| @Input()
-  minutesGap: number | To define a gap between minutes. Set `1` by default |
 | @Output()
   timeChanged: EventEmitter\<string\> | Emit a new time once it is changed. |
 

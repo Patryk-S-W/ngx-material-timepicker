@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file
 
+## 14.0.0 (2024-01-24)
+
+### Fixes
+* upgrade to angular 14
+
 ## 13.1.2 (2024-01-02)
 
 ### Fixes
