@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file
 
+## 17.1.0 (2024-01-24)
+
+### Fixes
+* updates packages to Angular 17
+
+## 17.0.0 (2024-01-24)
+
+### Fixes
+* upgrade to angular 17
+
+## 16.0.0 (2024-01-24)
+
+### Fixes
+* upgrade to angular 16
+
+## 15.0.0 (2024-01-24)
+
+### Fixes
+* upgrade to angular 15
+
 ## 14.0.0 (2024-01-24)
 
 ### Fixes
